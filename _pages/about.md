@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: " excerpt About me"
+title: "Biodiversity | Herpetology | Integrative biology"
+#excerpt: " excerpt About me"
 author_profile: true
 redirect_from: 
   - /about/
