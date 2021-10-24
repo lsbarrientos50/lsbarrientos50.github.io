@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 #permalink: /teaching/2015-spring-teaching-1
 venue: "Universidad del Rosario, Facultad de Ciencias Naturales"
-date: 2021-01-01
+date: 2021-02-02
 location: "Bogotá D.C., Colombia"
 ---
 
