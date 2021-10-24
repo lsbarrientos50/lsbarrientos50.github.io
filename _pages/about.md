@@ -11,3 +11,7 @@ redirect_from:
 I am herpetologist addressing a variety of research questions that I try to solve with the combination of tools of different fields as biodiversity, ecology, behavior, phylogenetics, systematics, population genetics, biogeography, and conservation.
 
 ![](/images/2016_canocristales.jpeg "a title")
+
+# A life long love for amphibians and reptiles
+
+![](/images/herpLove_Lucas.jpeg "a title")
