@@ -1,10 +1,10 @@
 ---
 title: "Phylogenetic systematics"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate and undergraduate course"
 #permalink: /teaching/2014-spring-teaching-1
 venue: "Universidad del Rosario, Facultad de ciencias Naturales"
-date: 2021-02-02
+date: 2021-05-05
 location: "Bogotá D.C., Colombia"
 ---
 
