@@ -1,11 +1,10 @@
 ---
 title: "Contemplar, Comprender, Conservar: Manual ilustrado para guías de turismo de naturaleza en Colombia"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: talks
-type: "Talk"
-venue: "UC San Francisco, Department of Testing"
-date: 2012-03-01
-location: "San Francisco, California"
+collection: books
+type: "Undergraduate course"
+venue: "Universidad del Rosario, Facultad de Ciencias Naturales"
+date: 2021-02-02
+location: "Bogotá D.C., Colombia"
 ---
 
 Contemplar, Comprender, Conservar: Manual ilustrado para guías de turismo de naturaleza en Colombia recoge informaciónsobre el patrimonio naturalcolombiano y la expone de manera didáctica, estética y accesible. Para tal efecto, ofrece:
