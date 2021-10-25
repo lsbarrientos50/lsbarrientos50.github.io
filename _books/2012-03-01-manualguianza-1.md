@@ -1,7 +1,8 @@
 ---
 title: "Contemplar, Comprender, Conservar: Manual ilustrado para guías de turismo de naturaleza en Colombia"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: books
+collection: talks
+type: "Talk"
 venue: "UC San Francisco, Department of Testing"
 date: 2012-03-01
 location: "San Francisco, California"
