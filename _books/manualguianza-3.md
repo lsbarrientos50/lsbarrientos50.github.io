@@ -1,6 +1,6 @@
 ---
 title: "Contemplar, Comprender, Conservar"
-type: "Director científico"
+venue: "Director científico"
 collection: books
 permalink: /teaching/manualguianza
 ---
