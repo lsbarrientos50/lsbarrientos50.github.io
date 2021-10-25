@@ -37,8 +37,21 @@ Syllabus
 
 
 
-Heading 2
+Referencias
 ======
+- The Phylogenetic Handbook 2nd Ed., edited by Lemey, Salemi and Vandamme. 
+- Inferring Phylogenies. J. Felsestein.
+- Tree thinking: An introduction to phylogenetic biology. Baum and Stacey.
+- Bioinformatics and Phylogenetics: Seminal Contributions of Bernard Moret. T. Warnow 
+- Computational phylogenetics: An Introduction to Designing Methods for Phylogeny Estimation. T. Warnow 
+- Modern Phylogenetic Comparative Methods and Their Application in Evolutionary Biology. L. Z. Garamszegi 
+- Foundations of Systematics and Biogeography. D. M. Williams, M. C. Ebach 
+- Systematics and biogeography. G. Nelson, N. Platnick
+- RevBayes tutorial
+- Bayesian phylogenetics: Methods, Algorithms, and Applications. Chen M, Kuo L, Lewis PO. 2014.
+- Phylogenetics Networks: Concepts, algorithms and Applications. Hutson DH, Rupp R, C. S. 2010.
+- Application of phylogenetic networks in evolutionary studies. Molecular Biology and Evolution. 23:254–267. Huson DH, Bryant D. 2006. 
+
 
 Heading 3
 ======
