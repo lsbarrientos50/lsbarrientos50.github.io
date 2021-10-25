@@ -1,10 +1,11 @@
 ---
-title: "Contemplar, Comprender, Conservar: Manual ilustrado para guías de turismo de naturaleza en Colombia"
+title: "Contemplar, Comprender, Conservar"
+type: "Director científico"
 collection: books
 permalink: /teaching/manualguianza
 ---
 
-[Contemplar, Comprender, Conservar](https://guianaturaleza.colombia.travel/): Manual ilustrado para guías de turismo de naturaleza en Colombia recoge informaciónsobre el patrimonio naturalcolombiano y la expone de manera didáctica, estética y accesible. Para tal efecto, ofrece:
+[Manual ilustrado para guías de turismo de naturaleza en Colombia](https://guianaturaleza.colombia.travel/) recoge información sobre el patrimonio naturalcolombiano y la expone de manera didáctica, estética y accesible. Para tal efecto, ofrece:
 
 - Un estilo narrativo sugerente, memorable y fácilmente comprensible.
 - Un lenguaje infográfico que articula bloques de texto, datos e ilustraciones sin sacrificarlegibilidad.
@@ -17,6 +18,9 @@ permalink: /teaching/manualguianza
   * [100 imágenes tipo ficharesumen.](https://guianaturaleza.colombia.travel/audios)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fxZAaWBYPY8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+![](/images/2021_creditos_manualGuianza.png "Créditos")
 
 
 
