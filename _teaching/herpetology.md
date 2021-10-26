@@ -30,13 +30,13 @@ References
 -	Herpetology: An Introductory Biology of Amphibians and Reptiles Laurie J. Vitt & Janalee P. Caldwell
 -	Biology of amphibians.  W.E. Duellman & L. Truerb 
 -	Frogs of Colombia. Cochran & Goin
-- [Journal of Herpetology] (https://ssarherps.org/publications/journal-of-herpetology/) 
-- [Herpetological Review] (https://ssarherps.org/publications/herpetological-review/) 
-- [Zootaxa reptiles] (https://www.mapress.com/j/zt/pages/view/Reptilia) 
-- [Zootaxa anfibios] (https://www.mapress.com/j/zt/pages/view/Amphibia) 
-- Copeia (https://meridian.allenpress.com/copeia) 
-- [South American Journal of Herpetology] (https://bioone.org/journals/south-american-journal-of-herpetology/issues) 
-- [Catálogo de Anfibios y Reptiles de Colombia] (https://www.acherpetologia.org/especies-publicadas) 
+- [Journal of Herpetology](https://ssarherps.org/publications/journal-of-herpetology/) 
+- [Herpetological Review](https://ssarherps.org/publications/herpetological-review/) 
+- [Zootaxa reptiles](https://www.mapress.com/j/zt/pages/view/Reptilia) 
+- [Zootaxa anfibios](https://www.mapress.com/j/zt/pages/view/Amphibia) 
+- [Copeia](https://meridian.allenpress.com/copeia) 
+- [South American Journal of Herpetology](https://bioone.org/journals/south-american-journal-of-herpetology/issues) 
+- [Catálogo de Anfibios y Reptiles de Colombia](https://www.acherpetologia.org/especies-publicadas) 
 
 
 Heading 3
