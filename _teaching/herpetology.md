@@ -17,10 +17,10 @@ Syllabus
 | --------         | ------ | ------------------------------------------------------------ |
 | Introducción a la herpetología | Presentación del curso, historia de la herpetología   | Lectura 1|
 | Origen de los tetrápodos | Origen y evolución de los tetrápodos    | Herpetology: An Introductory Biology of Amphibians and Reptiles Laurie J. Vitt & Janalee P. Caldwell Capítulo 1 |
-| Introducción a la herpetología | Presentación del curso, historia de la herpetología   | Lectura 1|
-| Introducción a la herpetología | Presentación del curso, historia de la herpetología   | Lectura 1|
-| Introducción a la herpetología | Presentación del curso, historia de la herpetología   | Lectura 1|
-| Introducción a la herpetología | Presentación del curso, historia de la herpetología   | Lectura 1|
+| Origen de los anfibios y reptiles | Presentación del curso, historia de la herpetología   | Lectura 1|
+| Biología de los anfibios -Anatomía | Presentación del curso, historia de la herpetología   | Lectura 1|
+| Biología de los reptiles -Anatomía | Presentación del curso, historia de la herpetología   | Lectura 1|
+| caracteres sinapomorficos de los anfibios | Presentación del curso, historia de la herpetología   | Lectura 1|
 | Introducción a la herpetología | Presentación del curso, historia de la herpetología   | Lectura 1|
 | Introducción a la herpetología | Presentación del curso, historia de la herpetología   | Lectura 1|
 
@@ -29,7 +29,9 @@ References
 - Herpetology: Introductory Biology of Amphibians and Reptiles George R. Zug 
 -	Herpetology: An Introductory Biology of Amphibians and Reptiles Laurie J. Vitt & Janalee P. Caldwell
 -	Biology of amphibians.  W.E. Duellman & L. Truerb 
--	Frogs of Colombia. Cochran & Goin
+-	[Frogs of Colombia Cochran & Goin](https://www.biodiversitylibrary.org/part/6346)
+-	[Amphibian species of the world. W.E. Duellman. 1993](https://www.biodiversitylibrary.org/item/54610#page/1/mode/1up)
+-	[Amphibian & reptile conservation](https://www.biodiversitylibrary.org/item/189257#page/1/mode/1up”
 - [Journal of Herpetology](https://ssarherps.org/publications/journal-of-herpetology/) 
 - [Herpetological Review](https://ssarherps.org/publications/herpetological-review/) 
 - [Zootaxa reptiles](https://www.mapress.com/j/zt/pages/view/Reptilia) 
