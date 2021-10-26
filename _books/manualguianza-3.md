@@ -9,8 +9,8 @@ permalink: /teaching/manualguianza
 
 Manual ilustrado para guías de turismo de naturaleza en Colombia recoge información sobre el patrimonio naturalcolombiano y la expone de manera didáctica, estética y accesible.
 
-Rol en el proyecto: Director científico
-Página del ptoyecto: https://guianaturaleza.colombia.travel/
+- Rol en el proyecto: Director científico
+- Página del proyecto: [https://guianaturaleza.colombia.travel/](https://guianaturaleza.colombia.travel/)
 
 Este libro ofrece:
 
