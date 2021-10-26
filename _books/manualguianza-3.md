@@ -1,7 +1,7 @@
 ---
 title: "Contemplar, Comprender, Conservar"
 type: "Director científico"
-venue:"Director científico"
+venue: "Director científico"
 location: "Director científico"
 collection: books
 permalink: /teaching/manualguianza
