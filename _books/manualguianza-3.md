@@ -1,11 +1,18 @@
 ---
 title: "Contemplar, Comprender, Conservar"
-venue: "Director científico"
+type: "Director científico"
+venue:"Director científico"
+location: "Director científico"
 collection: books
 permalink: /teaching/manualguianza
 ---
 
-[Manual ilustrado para guías de turismo de naturaleza en Colombia](https://guianaturaleza.colombia.travel/) recoge información sobre el patrimonio naturalcolombiano y la expone de manera didáctica, estética y accesible. Para tal efecto, ofrece:
+Manual ilustrado para guías de turismo de naturaleza en Colombia recoge información sobre el patrimonio naturalcolombiano y la expone de manera didáctica, estética y accesible.
+
+Rol en el proyecto: Director científico
+Página del ptoyecto: https://guianaturaleza.colombia.travel/
+
+Este libro ofrece:
 
 - Un estilo narrativo sugerente, memorable y fácilmente comprensible.
 - Un lenguaje infográfico que articula bloques de texto, datos e ilustraciones sin sacrificarlegibilidad.
