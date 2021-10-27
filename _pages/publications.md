@@ -8,8 +8,8 @@ toc: true
 
 
 
-Papers
-======
+# Papers
+
 
 - **Barrientos, L.S.**, J. W. Streicher, E. C. Miller, M. R. Pie, J. J. Wiens, A. J. Crawford. (in prep). Mitochondrial genomes of hyloid frogs captured using massive sequencing techniques. Target: Mitochondrial DNA Part B.
 - **Barrientos, L.S.**., A. Paz, C. Jaramillo, J. M. Daza, A. García, A, Batista, A. Hertz, M. Ryan, R. Ibañez, A. J. Crawford. (in prep). Phylogeography of dink frogs (Eleutherodactylidae: Diasporus): Phylogenetics, cryptic diversity, and correlates. Target: Journal of the Linaean Society, Serie B.
@@ -26,15 +26,15 @@ Papers
 - Daza-R, J. M., & **Barrientos, L.S.** (2005). Cochranella daidalea (Alban Cochran Frog). Herpetological Reveiw. 36 (2):198-199.
 
  
-Books Chapters
-======
+# Books Chapters
+
 
 - **Barrientos, L.S.**, M. A. Morales-Betancourt, C. A. Lasso, G. Torres, P. Herrera. (2017). CAPÍTULO 4. Anfibios y reptiles. In: Libro serie fauna silvestre Neotropical. III: Fauna de Caño Cristales, Sierra de La Macarena, Meta, Colombia. eds: C.A. Lasso, M. A. Morales-Betancourt. p: 97-124.
 - Díaz-Pulido, A., **Barrientos, L.S.**, W. Bolívar-García, F. Vargas-Salinas. (2016). Anfibios. in: Volumen II, Tomo I. Catálogo de la biodiversidad para las regiones andina, pacífica y piedemonte amazónico, nivel regional. Serie Planeación Ambiental para la Conservación de la Biodiversidad en las Áreas Operativas de Ecopetrol. eds: Portocarreño-Aya, M., G. Corzo, M.E. Chaves.  Instituto de Investigación de Recursos Biológicos Alexander von Humboldt – Ecopetról S-A- Bogotá. D.C., Colombia. Pp: 105-115.
 
  
-Filed Guides
-======
+# Filed Guides
+
 
 - Lynch, J. D., **Barrientos, L.S.**. (in press). Segunda edición ampliada. "Anfibios de Santa María (Boyacá, Colombia)" En: Guía De Campo De Los Mamíferos, Anfibios Y Reptiles De Santa María (Boyacá, Colombia). ed: Instituto De Ciencias Naturales Universidad Nacional De Colombia.
 - Lynch, J. D., **Barrientos, L.S.** (in press). Segunda edición ampliada. "Reptiles de Santa María (Boyacá, Colombia)" in: Guía De Campo De Los Mamíferos, Anfibios Y Reptiles De Santa María (Boyacá, Colombia), ed:  Instituto De Ciencias Naturales Universidad Nacional De Colombia.
@@ -45,8 +45,7 @@ Filed Guides
 - Hinestroza, L. M., & **Barrientos, L.S.** (2007). Serpientes de las Centrales Jaguas y San Carlos (Guía Rápida de Campo). ISAGEN.
 
  
-Outreach
-======
+# Outreach
 
 - **Barrientos, L.S.**, Lasso, E., A. Paz. (2018). Leptodactylus lithonaetes. En: Catálogo De Anfibios Y Reptiles De Colombia. 3(3): 21 -27.
 - **Barrientos, L.S.** & A. Paz. (2017). Diasporus anthrax. En: Catálogo De Anfibios Y Reptiles De Colombia. 3 (2): 25-29
