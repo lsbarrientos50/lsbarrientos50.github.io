@@ -42,6 +42,10 @@ References
 -	Herpetology: An Introductory Biology of Amphibians and Reptiles Laurie J. Vitt & Janalee P. Caldwell
 -	Biology of amphibians.  W.E. Duellman & L. Truerb 
 -	[Frogs of Colombia Cochran & Goin](https://www.biodiversitylibrary.org/part/6346)
+
+
+Links útiles para el curso
+======
 -	[Amphibian species of the world. W.E. Duellman. 1993](https://www.biodiversitylibrary.org/item/54610#page/1/mode/1up)
 -	[Amphibian & reptile conservation](https://www.biodiversitylibrary.org/item/189257#page/1/mode/1up)
 - [Journal of Herpetology](https://ssarherps.org/publications/journal-of-herpetology/) 
@@ -51,7 +55,3 @@ References
 - [Copeia](https://meridian.allenpress.com/copeia) 
 - [South American Journal of Herpetology](https://bioone.org/journals/south-american-journal-of-herpetology/issues) 
 - [Catálogo de Anfibios y Reptiles de Colombia](https://www.acherpetologia.org/especies-publicadas) 
-
-
-Heading 3
-======
