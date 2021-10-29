@@ -82,16 +82,13 @@ Teaching
 
 ### 2011-2018 Teaching Assistant, Universidad de los Andes.
 
-  - 2018-1 Ecology principles and applications. 
-  - 2017-2 Ecology principles and applications. 
-  - 2012-2 Ecology principles and applications. 
-  - 2012-1 Ecology principles and applications. 
-  - 2011-2 Ecology principles and applications. 
+  - Ecology principles and applications (5 Semesters).
+
 
 ### 2009-2011 Lecturer, Universidad Jorge Tadeo Lozano.
 
   - 2011-1 Biología
-  - 2019-2011 (6 Semesters) Biogeography
+  - Biogeography (6 Semesters) 
 
 
 ### 2009-2010 Teaching Assistant, Universidad Nacional de Colombia.
