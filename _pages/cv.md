@@ -13,6 +13,7 @@ Education
 ======
 
 * Ph.D. Universidad de los Andes, (Bogotá-Colombia). 2011- 2018
+<br>
          Thesis: Evolution in New World direct-developing frogs: Patterns and process. Facultad de Ciencias, Departamento de Biología, Universidad de los Andes.
          
 * M.Sc. Universidad Nacional de Colombia. (Bogotá-Colombia), Taxonomy and Systematic, 2007-2010.
@@ -22,7 +23,96 @@ Education
         Thesis: Arboreal amphibian fauna from the Alto de Ventanas, Yarumal Antioquia. Instituto de Biología, Facultad de Ciencias Exactas y Naturales, Universidad de Antioquia, Medellín.
 
 
+  
+Skills
+======
 
+### Programming and Statistics
+ - Bash
+ - Phyton
+ - R
+
+### Systematics
+ -
+ -
+ -
+ 
+### WEB
+
+- GitHub, GitHub pages
+- Markdown
+
+
+ 
+Teaching
+======
+
+### 2021-2 Lecturer, Universidad del Rosario.
+
+  - Phylogenetic Systematics.
+  - Cuisine, Science and Biodiversity.
+  - Amazonia, análisis de las problemáticas ambientales bajo una mirada interdisciplinar.
+
+### 2021-1 Lecturer, Universidad del Rosario.
+
+  - Herpetology.
+  - Cuisine, Science and Biodiversity  (3 secciones).
+
+### 2020-1 Lecturer, Universidad del Rosario.
+
+  - Phylogenetic Systematics.
+  - Population Genetics.
+
+### 2019-2 Lecturer.
+
+  - Herpetology, Universidad del Rosario.
+  - Herpetology, Universidad de los Andes.
+  - Population Genetics, Universidad del Rosario.
+
+### 2019-1 Lecturer, Universidad del Rosario.
+
+  - Colombian Biodiversity (3 secciones).
+
+### 2018-2 Lecturer, Universidad del Rosario.
+
+  - Population Genetics,
+  - Colombian Biodiversity (3 secciones).
+  - ADN y evolución del hombre.
+
+
+### 2011-2018 Teaching Assistant, Universidad de los Andes.
+
+  - 2018-1 Ecology principles and applications. 
+  - 2017-2 Ecology principles and applications. 
+  - 2012-2 Ecology principles and applications. 
+  - 2012-1 Ecology principles and applications. 
+  - 2011-2 Ecology principles and applications. 
+
+### 2009-2011 Lecturer, Universidad Jorge Tadeo Lozano.
+
+2011-1 Biología y Biogeografía. Universidad Jorge Tadeo Lozano.
+2010-2 Biogeografía. Universidad Jorge Tadeo Lozano.
+
+2010-1 Biogeografía: Universidad Jorge Tadeo Lozano.
+2009-2 Biogeografía. Universidad Jorge Tadeo Lozano.
+2009-intersemestral Profesor de cátedra. Biogeografía. Universidad Jorge Tadeo Lozano.
+2009-1 Profesor de cátedra. Biogeografía. Universidad Jorge Tadeo Lozano.
+
+
+### 2009-2010 Teaching Assistant, Universidad Nacional de Colombia.
+
+2010-2 Biología Animal. 
+2009-2 Taxonomía Animal.
+2009-2 Fundamentos de Investigación.
+2009-1 Taxonomía animal.
+2009-1 Fundamentos de investigación.
+
+
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+  
 Work experience
 ======
 * Summer 2015: Research Assistant
@@ -34,93 +124,14 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
-Skills
-======
-
-## Programming and Statistics
- - Bash
- - Phyton
- - R
-
-## Systematics
- -
- -
- -
- 
-## 
-
-- GitHub, GitHub pages
-- Markdown
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-
-Teaching
-======
-
-## 2021-2 Profesor de cátedra, Universidad del Rosario.
-  - Sistemática filogenética, Universidad del Rosario.
-  - Cocina: Ciencia y biodiversidad, Universidad del Rosario.
-  - Amazonia, análisis de las problemáticas ambientales bajo una mirada interdisciplinar, Universidad del Rosario.
-
-## 2021-1 Profesor de cátedra, Universidad del Rosario.
 
 
-Profesor de cátedra. Herpetología y Cocina: Ciencia y biodiversidad (tres
-
-secciones), Universidad del Rosario.
-
-2021-1 Profesor de cátedra. Herpetología, Universidad del Rosario.
-2020-1 Profesor de cátedra. Sistemática filogenética, Universidad del Rosario.
-2019-2 Profesor de cátedra. Herpetología y Genética de poblaciones, Universidad del
-
-Rosario.
-
-2019-2 Profesor de cátedra. Herpetología, Universidad de los Andes.
-2019-1 Profesor de cátedra. Biodiversidad de Colombia (3 secciones). Universidad del
-
-Rosario
-
-2018-2 Profesor de cátedra. Biodiversidad de Colombia (3 secciones). Universidad del
-
-Rosario
-
-2018-2 Profesor de cátedra. ADN y evolución del hombre y Genética de poblaciones,
-
-Universidad del Rosario
-
-2018-1 Profesor asistente. Ecología principios y aplicaciones. Universidad de los Andes.
-2017-2 Profesor asistente. Ecología principios y aplicaciones. Universidad de los Andes.
-2012-2 Profesor asistente. Ecología principios y aplicaciones. Universidad de los Andes.
-2012-1 Profesor asistente. Ecología principios y aplicaciones. Universidad de los Andes.
-2011-2 Profesor asistente. Ecología principios y aplicaciones. Universidad de los Andes.
-2011-1 Profesor de cátedra. Biología y Biogeografía. Universidad Jorge Tadeo Lozano.
-2010-2 Profesor de cátedra. Biogeografía. Universidad Jorge Tadeo Lozano.
-2010-2 Profesor asistente. Biología Animal. Universidad Nacional de Colombia.
-2010-1 Profesor de cátedra. Biogeografía: Universidad Jorge Tadeo Lozano.
-2009-2 Profesor de cátedra. Biogeografía. Universidad Jorge Tadeo Lozano.
-2009-2 Profesor asistente. Taxonomía Animal. Universidad Nacional de Colombia.
-2009-2 Profesor asistente. Fundamentos de Investigación. Universidad Nacional de
-
-Colombia.
-
-2009-intersemestral Profesor de cátedra. Biogeografía. Universidad Jorge Tadeo Lozano.
-2009-1 Profesor de cátedra. Biogeografía. Universidad Jorge Tadeo Lozano.
-2009-1 Profesor asistente. Taxonomía animal. Universidad Nacional de Colombia.
-2009-1 Profesor asistente. Fundamentos de investigación. Universidad Nacional de
-
-Colombia.
-
-
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
