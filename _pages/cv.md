@@ -90,22 +90,17 @@ Teaching
 
 ### 2009-2011 Lecturer, Universidad Jorge Tadeo Lozano.
 
-2011-1 Biología y Biogeografía. Universidad Jorge Tadeo Lozano.
-2010-2 Biogeografía. Universidad Jorge Tadeo Lozano.
-
-2010-1 Biogeografía: Universidad Jorge Tadeo Lozano.
-2009-2 Biogeografía. Universidad Jorge Tadeo Lozano.
-2009-intersemestral Profesor de cátedra. Biogeografía. Universidad Jorge Tadeo Lozano.
-2009-1 Profesor de cátedra. Biogeografía. Universidad Jorge Tadeo Lozano.
+  - 2011-1 Biología
+  - 2019-2011 (6 Semesters) Biogeography
 
 
 ### 2009-2010 Teaching Assistant, Universidad Nacional de Colombia.
 
-2010-2 Biología Animal. 
-2009-2 Taxonomía Animal.
-2009-2 Fundamentos de Investigación.
-2009-1 Taxonomía animal.
-2009-1 Fundamentos de investigación.
+  - 2010-2 Biología Animal. 
+  - 2009-2 Taxonomía Animal.
+  - 2009-2 Fundamentos de Investigación.
+  - 2009-1 Taxonomía animal.
+  - 2009-1 Fundamentos de investigación.
 
 
   <ul>{% for post in site.teaching %}
