@@ -35,9 +35,10 @@ Skills
  - R
 
 ### Systematics
- - a
- - b
- - c
+ - Poppulation genetics analysis
+ - Phylogenetic analysis 
+ - Comparative methods 
+ - Biogeography 
  
 ### WEB
 
@@ -63,7 +64,6 @@ Teaching
 ### 2020-1 Lecturer, Universidad del Rosario.
 
   - Phylogenetic Systematics.
-  - Population Genetics.
 
 ### 2019-2 Lecturer.
 
