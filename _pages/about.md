@@ -20,4 +20,6 @@ I am interested in the evolutionary history mainly of amphibians. Using phylogen
 
 I am particularly interested in studying evolutionary patterns and processes using direct developmental frogs from the new world as a study model. I am also interested in understanding how different traits evolved that facilitated the diversification of different groups of frogs.
 
+![](/images/DSC_4661.JPG "a title")
+
 I graduated with a B.Sc. in Biology from the University of Antioquia in Medellín, Colombia. During my master's degree at the National University of Bogotá, I studied the use of frog songs as a source of phylogenetic characters. I have a PhD in Biology from the Universidad de los Andes. I joined the program and Andrew Crawford's Lab in 2010 with a grant from Cociencias Colombia. At the Universidad de los Andes, working on my thesis, I focused mainly on the phylogenetics and biogeography of frogs in direct development of the New World.
