@@ -129,9 +129,23 @@ Publications
   {% endfor %}</ul>
 
 
-Service and leadership
+Professional Service 
 ======
-* Currently signed in to 43 different slack teams
+- Reviewer for the journals: Molecular Phylogenetics and Evolution, Biological Journal of the Linaean Society, Check list, PlosONE, Revista Latinoamericana de Herpetología
+
+- 2014. Organizing committee. First Latin American symposium on the systematics and biogeography of amphibians and reptiles. X Latin American Congress of Herpetology. Cartagena Colombia
+
+- 2006. Organizing Committee. IV Symposium on Research in Biodiversity and Conservation, Jardin Antioquia. 2006- Antioquia
+
+- 2012-2013. Representative of graduate students, Department of Biology Universidad de los Andes. 
+
+Memberships
+======
+- IUCN SSC Amphibian Specialist Group 2021-2025
+- Society of Systematic Biologists 2012-2017
+- Society for the Study of Evolution (SSE) 2012- current
+- Colombian Herpetology Association (ACH) 2006-current
+- Herpetological Group of Antioquia (GHUA) 2003-2009
 
 Grants and fellowships
 ======
