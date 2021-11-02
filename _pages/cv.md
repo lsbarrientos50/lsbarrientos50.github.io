@@ -125,6 +125,7 @@ Professional Experience
 Publications
 ======
 to see the content go to the Publications tab
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
