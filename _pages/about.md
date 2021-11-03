@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# A life long love for amphibians and reptiles
+### A life long love for amphibians and reptiles
 
 ![](/images/herpLove_Lucas.jpeg){: .align-left}
 
@@ -16,8 +16,8 @@ I am herpetologist addressing a variety of research questions that I try to solv
 
 I am interested in the evolutionary history mainly of amphibians. Using phylogenetic analysis, population genetics, biogeography and comparative methods to study the evolution of the traits. I am currently a teacher at the Universidad del Rosario.
 
-![](/images/2016_canocristales.jpeg "a title")
-
 I am particularly interested in studying evolutionary patterns and processes using direct developmental frogs from the new world as a study model. I am also interested in understanding how different traits evolved that facilitated the diversification of different groups of frogs.
 
 I graduated with a B.Sc. in Biology from the University of Antioquia in Medellín, Colombia. During my master's degree at the National University of Bogotá, I studied the use of frog songs as a source of phylogenetic characters. I have a PhD in Biology from the Universidad de los Andes. I joined the program and Andrew Crawford's Lab in 2010 with a grant from Cociencias Colombia. At the Universidad de los Andes, working on my thesis, I focused mainly on the phylogenetics and biogeography of frogs in direct development of the New World.
+
+![](/images/2016_canocristales.jpeg "a title")
