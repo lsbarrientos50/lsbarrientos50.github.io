@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am herpetologist addressing a variety of research questions that I try to solve with the combination of tools of different fields as biodiversity, ecology, behavior, phylogenetics, systematics, population genetics, biogeography, and conservation.
-{: .notice--info}
+{: .notice--info .fw-300}
 
 ![](/images/2016_canocristales.jpeg "a title")
 
