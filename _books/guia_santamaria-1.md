@@ -1,10 +1,8 @@
 ---
 title: "Anfibios de Santa María (Boyacá, Colombia)"
 collection: books
-permalink: /books/manualguianza
+permalink: /books/guia_santamaria
 ---
-
-![](/images/portadaGuiaSantaMaria_2019.png){: .align-left}
 
 
 In an effort consistent with the unavoidable need to link all sectors of society, as protagonists in
@@ -13,7 +11,10 @@ of the Guía de campo de los mamíferos, anfibios y reptiles de Santa María (Bo
 we hope to contribute to the standardization of studies of small mammals, aimed at answering
 questions regarding species richness, abundance of individuals within species and their diversity;
 as well as to establish the composition, structure and function of this faunal group, among
-other studies. In addition, we seek through basic information on the biology and natural history
+other studies. 
+
+![](/images/portadaGuiaSantaMaria_2019.png){: .align-left}
+In addition, we seek through basic information on the biology and natural history
 of the species, offer elements that link to the diversity of mammals present in the municipality
 of Santa María, within the daily life, the traditional knowledge of the inhabitants of this municipality
 and its visitors, and in regional management and conservation plans, since it is urgent
