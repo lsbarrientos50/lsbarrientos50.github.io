@@ -10,8 +10,14 @@ location: "Bogotá D.C., Colombia"
 
 Phylogenetic analyzes have become a standard methodology for comparative studies in any field of biology. This course aims to teach the fundamentals of phylogenetic analysis and the use of different computer programs, with emphasis on the problems and tools inherent to systematics, biogeography and evolution. 
 
+
 Syllabus
 ======
+
+From here onwards the content of this page will be in Spanish, the language this course is taught.
+A partir de aquí el contenido de esta página se encuenta en español, idioma en el cual se imparte en este curso. 
+{: .notice--info}
+
 
 | Tema             | Descripción |           Lecturas                                                   |
 | --------         | ------ | ------------------------------------------------------------ |
@@ -19,10 +25,10 @@ Syllabus
 | Tipos de Datos  | Dferentes tipos de datos que se pueden usar en desconstrucciones filogenéticas, sus ventajas y limitaciones. Datos morfológicos, moleculares y comportamiento y homología.  | On the importance of homology in the age of phylogenomics. Springer & Gatesy. 2017. doi.org/10.1080/14772000.2017.1401016 |
 | Polarización y alineamiento de secuencias     | Grupos externos, similitud vs alineamientos dinámicos.   | _The Phylogenetic Handbook. Lemey et al., 2009._ Pags. 68-96. |
 | Datos moleculares y evolución    | Evolución y modelos evolutivos utilizados sobre los datos para inferir las relaciones filogenéticas.   | _Inferring Phylogenies. Felsenstein. 2004._ Pags. 196-221. _The phylogenetic handbook. Lemey et al. 2009._ Pags. 3-28. |
-| Métodos de agrupamiento (NJ)    | Estudiar los principios básicos que implementan los métodos de distancia.  | _Inferring Phylogenies. Felsenstein._ 2004 Pags. 146 - 175. _The phylogenetic handbook. Lemey et al. 2009._ Pags. 142-156 |
-| Máxima verosimilitud (incluida parsimonia como un modelo simple)   |    | _Inferring Phylogenies. Felsenstein._ 2004 Pags. 248 - 274 . _The phylogenetic handbook. Lemey et al. 2009._ Pags. 181-196 |
-| Inferencia Bayesiana   | Revbayes, MrBayes Beast, *Beast | _Inferring Phylogenies. Felsenstein._ 2004 Pags. 288 - 304  . _The phylogenetic handbook. Lemey et al. 2009._ Pags. 237-265 |
-| Coalescencia y aproximaciones a coalescencia    | Entender los principios de la teoría de coalescencia aplicada a sistemática filogenética y sus aproximaciones para datos masivos  | * The performance of coalescent-based species tree estimation methods under models of missing data. Nute et al., 2018 * Effectiveness of phylogenomic data and coalescent species-tree methods for resolving difficult nodes in the phylogeny of advanced snakes (Serpentes: Caenophidia) Pyron et al., 2014 * ASTRAL-III: polynomial time species tree reconstruction from partially resolved gene trees https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2129-y      |
+| Métodos de agrupamiento (NJ)    | Estudiar los principios básicos que implementan los métodos de distancia.  | _Inferring Phylogenies. Felsenstein._ 2004 Pags. 146 - 175. <br /> _The phylogenetic handbook. Lemey et al. 2009._ Pags. 142-156 |
+| Máxima verosimilitud (incluida parsimonia como un modelo simple)   |    | _Inferring Phylogenies. Felsenstein._ 2004 Pags. 248 - 274 . <br /> _The phylogenetic handbook. Lemey et al. 2009._ Pags. 181-196 |
+| Inferencia Bayesiana   | Revbayes, MrBayes Beast, *Beast | _Inferring Phylogenies. Felsenstein._ 2004 Pags. 288-30. <br /> _The phylogenetic handbook. Lemey et al. 2009._ Pags. 237-265 |
+| Coalescencia y aproximaciones a coalescencia    | Entender los principios de la teoría de coalescencia aplicada a sistemática filogenética y sus aproximaciones para datos masivos  | The performance of coalescent-based species tree estimation methods under models of missing data. Nute et al., 2018. <br /> Effectiveness of phylogenomic data and coalescent species-tree methods for resolving difficult nodes in the phylogeny of advanced snakes (Serpentes: Caenophidia) Pyron et al., 2014 <br /> ASTRAL-III: polynomial time species tree reconstruction from partially resolved gene trees https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2129-y      |
 | R visualización y manipulación de arboles   | Explorar la implementación de diferentes métodos para la manipulación y edición de topologías, que son importantes para expresar claramente los resultados de diversos análisis   | Data Integration, Manipulation and Visualization of Phylogenetic Trees. Yu. https://github.com/YuLab-SMU/treedata-book                          |
 | Unidades taxonómicas y delimitación de especies. (bGMYC, ABGD, GMYC, Spyder, PTP)| Evaluar diferentes tipos de aproximaciones que se implementan para la delimitación de especies.    | Factors affecting species delimitations with the GMYC model: insights from a butterfly survey. Talavera, G., Dinca, V., and Vila, R. (2013). Methods Ecol. Evol. 4, 1101–1110. doi: 10.1111/2041-210X.12107                         |
 | Sistemática con genomas completos y datos masivos. Súper árboles y súper matrices.  | Aproximarnos a diferentes métodos que buscan reconstruir el árbol de la vida, partiendo de los súper arboles y súpermatrices a los métodos que usan datos masivos para intentar resolver estas relaciones evolutivas.   | The evolution of supertrees. Bininda-EmondsR.  P.  2004.    Trends. Ecol. Evol. 19:315–322. Separate  versus combined analysis of phylogenetic evidence. de  Queiroz et al., 1995. Annu. Rev. Ecol. Syst. 26:657–681.Phylogenetic Supertrees: Combining Information to Reveal the Tree of Life.https://www.researchgate.net/publication/236220999_Phylogenetic_Supertrees_Combining_Information_to_Reveal_the_Tree_of_Life                        |
@@ -32,12 +38,7 @@ Syllabus
 | Métodos comparativos, filogeografía y biogeografía histórica | Explorar la utilidad de métodos comparativos   en sistemática filogenética y reconstrucciones biogeográficas y filogeográficas   | Felsenstein J. 1985. Phylogenies and the comparative method. Amer. Nat. 125:1-15      Oakley TH, Cunningham CW. 2000. Independent contrasts succeed where ancestral reconstruction fails in a known bacteriophage phylogeny. Evolution 54:397-405                          |
 
 
-
-
-
-
-
-Referencias
+References
 ======
 - The Phylogenetic Handbook 2nd Ed., edited by Lemey, Salemi and Vandamme. 
 - Inferring Phylogenies. J. Felsestein.
@@ -52,6 +53,3 @@ Referencias
 - Phylogenetics Networks: Concepts, algorithms and Applications. Hutson DH, Rupp R, C. S. 2010.
 - Application of phylogenetic networks in evolutionary studies. Molecular Biology and Evolution. 23:254–267. Huson DH, Bryant D. 2006. 
 
-
-Heading 3
-======
