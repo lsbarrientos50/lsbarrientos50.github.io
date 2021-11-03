@@ -124,22 +124,20 @@ Professional Experience
 
 Publications
 ======
-to see the content go to the Publications tab
-
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Go to [publications tab.](/publications)
 
 
 Professional Service 
 ======
-- Reviewer for the journals: Molecular Phylogenetics and Evolution, Biological Journal of the Linaean Society, Check list, PlosONE, Revista Latinoamericana de Herpetología
+- Reviewer for the journals: 
+    - Molecular Phylogenetics and Evolution, 
+    - Biological Journal of the Linaean Society, Check list.
+    - PlosONE.
+    - Revista Latinoamericana de Herpetología.
+- 2014 Organizing committee. First Latin American symposium on the systematics and biogeography of amphibians and reptiles. X Latin American Congress of Herpetology. Cartagena Colombia.
+- 2012-2013 Representative of graduate students, Department of Biology Universidad de los Andes. 
+- 2006 Organizing Committee. IV Symposium on Research in Biodiversity and Conservation, Jardin Antioquia. 
 
-- 2014. Organizing committee. First Latin American symposium on the systematics and biogeography of amphibians and reptiles. X Latin American Congress of Herpetology. Cartagena Colombia
-
-- 2006. Organizing Committee. IV Symposium on Research in Biodiversity and Conservation, Jardin Antioquia. 2006- Antioquia
-
-- 2012-2013. Representative of graduate students, Department of Biology Universidad de los Andes. 
 
 Memberships
 ======
