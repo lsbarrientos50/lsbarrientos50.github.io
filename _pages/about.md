@@ -10,7 +10,7 @@ redirect_from:
 
 ### A life long love for amphibians and reptiles
 
-![](/images/herpLove_Lucas.jpeg){: .align-rigth}
+![](/images/herpLove_Lucas.jpeg){: .align-right}
 
 I am herpetologist addressing a variety of research questions that I try to solve with the combination of tools of different fields as biodiversity, ecology, behavior, phylogenetics, systematics, population genetics, biogeography, and conservation.
 
