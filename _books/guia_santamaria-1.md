@@ -13,7 +13,7 @@ questions regarding species richness, abundance of individuals within species an
 as well as to establish the composition, structure and function of this faunal group, among
 other studies. 
 
-<br />
+
 [Download](http://ciencias.bogota.unal.edu.co/fileadmin/Facultad_de_Ciencias/Publicaciones/Imagenes/Portadas_Libros/Colecciones/Guias_ICN/23/GCICN23.pdf)
 {: .notice--info}
 
