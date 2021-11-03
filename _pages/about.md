@@ -8,18 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am herpetologist addressing a variety of research questions that I try to solve with the combination of tools of different fields as biodiversity, ecology, behavior, phylogenetics, systematics, population genetics, biogeography, and conservation.
-{: .notice--info .fw-300}
-
-![](/images/2016_canocristales.jpeg "a title")
-
-I am interested in the evolutionary history mainly of amphibians. Using phylogenetic analysis, population genetics, biogeography and comparative methods to study the evolution of the traits. I am currently a teacher at the Universidad del Rosario.
-
-
-
 # A life long love for amphibians and reptiles
 
 ![](/images/herpLove_Lucas.jpeg){: .align-left}
+
+I am herpetologist addressing a variety of research questions that I try to solve with the combination of tools of different fields as biodiversity, ecology, behavior, phylogenetics, systematics, population genetics, biogeography, and conservation.
+
+I am interested in the evolutionary history mainly of amphibians. Using phylogenetic analysis, population genetics, biogeography and comparative methods to study the evolution of the traits. I am currently a teacher at the Universidad del Rosario.
+
+![](/images/2016_canocristales.jpeg "a title")
 
 I am particularly interested in studying evolutionary patterns and processes using direct developmental frogs from the new world as a study model. I am also interested in understanding how different traits evolved that facilitated the diversification of different groups of frogs.
 
