@@ -23,8 +23,8 @@ biotic elements and for being a biological corridor between the Chivor Hydroelec
 Power Plant and the Chingaza National Natural Park.
 
 
-
-
+<br />
+<br />
 [Download](http://ciencias.bogota.unal.edu.co/fileadmin/Facultad_de_Ciencias/Publicaciones/Imagenes/Portadas_Libros/Colecciones/Guias_ICN/23/GCICN23.pdf)
 {: .notice--info}
 
