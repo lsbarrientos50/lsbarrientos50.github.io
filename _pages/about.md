@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Biodiversity | Herpetology | Integrative biology"
+title: "Biodiversity, Herpetology, Integrative biology"
 #excerpt: " excerpt About me"
 author_profile: true
 redirect_from: 
