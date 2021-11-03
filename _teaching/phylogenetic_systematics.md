@@ -14,7 +14,7 @@ Phylogenetic analyzes have become a standard methodology for comparative studies
 Syllabus
 ======
 
-From here onwards the content of this page will be in Spanish, the language this course is taught.
+From here onwards the content of this page will be in Spanish, the language this course is taught. <br />
 A partir de aquí el contenido de esta página se encuenta en español, idioma en el cual se imparte en este curso. 
 {: .notice--info}
 
