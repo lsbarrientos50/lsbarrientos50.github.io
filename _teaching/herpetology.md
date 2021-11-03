@@ -13,9 +13,14 @@ This course aims to be a theoretical-practical experience in the study of amphib
 Syllabus
 ======
 
+From here onwards the content of this page will be in Spanish, the language this course is taught. <br />
+A partir de aquí el contenido de esta página se encuenta en español, idioma en el cual se imparte en este curso. 
+{: .notice--info}
+
+
 | Tema             | Descripción |           Lecturas                                                   |
 | --------         | ------ | ------------------------------------------------------------ |
-| Introducción a la herpetología | Presentación del curso, historia de la herpetología   | Lectura 1|
+| Introducción a la herpetología | Presentación del curso, historia de la herpetología   | |
 | Origen de los tetrápodos | Se presentan brevemente el origen y evolución de los tetrápodos. Los primeros tetrápodos fueron anamniotes y se ataron más o menos al agua para su reproducción. Estos organismos dieron origen a los anfibios que conocemos hoy. La transición a la tierra fue facilitada por la evolución del huevo amniótico, que permitió la reproducción fuera del agua y resultó en la diversificación de los amniotas.    | [Rise of the Earliest Tetrapods: An Early Devonian Origin from Marine Environment](https://www.scienceopen.com/document_file/3074f497-c647-4055-ba85-8fb56ff675f7/PubMedCentral/3074f497-c647-4055-ba85-8fb56ff675f7.pdf) |
 | Origen de los anfibios y reptiles | Se presentan brevemente los tres grupos vivientes de anfibios (ranas, salamandras y cecilias) y los cuatro grupos vivientes de reptiles (tortugas, crocodilianos, tuátaras y escamatas). La historia evolutiva de los anfibios y reptiles se pone en perspectiva al rastrear la evolución de los primeros tetrápodos durante y después de la transición del agua a la tierra.   | [The origin of modern amphibians: a re-evaluation](https://academic.oup.com/zoolinnean/article/162/2/457/2625592) ; [Megaevolutionary dynamics and the timing of evolutionary innovation in reptiles](https://www.nature.com/articles/s41467-020-17190-9)|
 | Biología de los anfibios -Anatomía | Se resume la anatomía de anfibios. Los principales temas abordados incluyen 1) el sistema reproductivo, la embriogénesis, la morfogénesis y los estilos de vida embrionarios; 2) eclosión, metamorfosis y crecimiento; y 3) sistemas de órganos. Además de describir la anatomía, se enfatizan los aspectos funcionales de los sistemas de órganos para presentar una perspectiva sobre cómo funcionan estos sistemas en anfibios y reptiles.  | Herpetology: An Introductory Biology of Amphibians and Reptiles Laurie J. Vitt & Janalee P. Caldwell Capítulo 3|
@@ -30,9 +35,6 @@ Syllabus
 | Comportamiento - escape y defenza | Se revisa la teoría básica sobre los mecanismos de escape de los depredadores en anfibios y reptiles. Escapar de la depredación implica la capacidad de responder de manera diferente en casi todas las etapas de un evento de depredación, desde escapar de la detección inicial hasta escapar una vez capturado.   | |
 | Biogeografía | Los anfibios y reptiles tienen un pasado largo y complejo en cuanto a su distribución global. Se hará una revisión de la deriva continental (historia de la Tierra) y las principales teorías biogeográficas destacando varios enfoques de la biogeografía, tanto en el pasado lejano como en el reciente.   | [Biogeographical patterns of amphibians and reptiles in the northernmost coastal montane complex of South America](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0246829)|
 | Clasificación y diversidad |   | |
-
-
-
 
 
 
