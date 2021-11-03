@@ -6,6 +6,7 @@ author_profile: true
 toc: true
 ---
 
+{% include toc %}
 
 
 ## Papers
