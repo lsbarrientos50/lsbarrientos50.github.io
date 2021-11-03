@@ -1,6 +1,6 @@
 ---
 title: "Fieldwork photos"
-excerpt: "Hyloscirtus male calling near the Paramo <br/><img src='/images/'>"
+excerpt: "Hyloscirtus male calling near the Paramo <br/><img src='/images/DSC_4661.JPG'>"
 collection: portfolio
 ---
 Hyloscirtus male calling near the Paramo Sumapaz <br/><img src='/images/DSC_4661.JPG'>
