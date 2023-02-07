@@ -14,7 +14,7 @@ redirect_from:
 
 I am herpetologist addressing a variety of research questions that I try to solve with the combination of tools of different fields as biodiversity, ecology, behavior, phylogenetics, systematics, population genetics, and biogeography.
 
-I am interested in the evolutionary history mainly of amphibians. Using phylogenetic analysis, population genetics, biogeography and comparative methods to study the evolution of the traits. I am currently an assitant professor teacher at the Pontificia Universidad Javeriana.
+I am interested in the evolutionary history mainly of amphibians. Using phylogenetic analysis, population genetics, biogeography and comparative methods to study the evolution of the traits. I am currently an assitant professor at the Pontificia Universidad Javeriana.
 
 I am particularly interested in studying evolutionary patterns and processes using direct developmental frogs from the new world as a study model. I am also interested in understanding how different traits evolved that facilitated the diversification of different groups of amphibians and reptiles.
 
