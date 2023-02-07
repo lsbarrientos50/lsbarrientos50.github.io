@@ -7,14 +7,18 @@ toc: true
 ---
 
 
-## Papers
+## Papers in preparation
 
 
 - **Barrientos, L.S.**, J. W. Streicher, E. C. Miller, M. R. Pie, J. J. Wiens, A. J. Crawford. (in prep). Mitochondrial genomes of hyloid frogs captured using massive sequencing techniques. Target: Mitochondrial DNA Part B.
 - **Barrientos, L.S.**., A. Paz, C. Jaramillo, J. M. Daza, A. García, A, Batista, A. Hertz, M. Ryan, R. Ibañez, A. J. Crawford. (in prep). Phylogeography of dink frogs (Eleutherodactylidae: Diasporus): Phylogenetics, cryptic diversity, and correlates. Target: Journal of the Linaean Society, Serie B.
 - **Barrientos, L.S.**, J. W. Streicher, E. C. Miller, M, R. Pie, J.J. Wiens, A.J. Crawford. (in prep). Systematics and biogeography of rain-frogs (Anura: Eleutherodactylidae) inferred from 1,913 loci obtained by combining ultraconserved elements and mitochondrial data. Target: Journal of Biogeography.
-- **Barrientos, L.S.**, J. W. Streicher, E. C. Miller, M, R. Pie, J. J. Wiens, A. J. Crawford. (submitted). Untangling relationships among terraranan frogs: a phylogenomic approach based on 2,665 loci. Scientific Reports.
-- Amézquita A., G. Suárez, P. Palacios-Rodríguez, I. C. Beltrán, C. Rodríguez, **L.S. Barrientos**, J.M. Daza, L. Mazariegos. (accepted). A new species of Pristimantis (Anura: Craugastoridae) from the cloud forests of the Colombian Northwestern Andes. Zootaxa,  4648 (3). http://dx.doi.org/10.11646/zootaxa.4648.3.8
+
+## Papers
+- AMÉZQUITA. A, J. M.DAZA, L. A. BARRAGÁN CONTRERAS, C. OREJUELA, **L. S. BARRIENTOS**. (2022) One more and one less: a new species of large bromelicolous lizard (Gymnophthalmidae: Anadia) from the Andean cloud forests of northwestern Colombia and the phylogenetic status of Anadia antioquensis. Zootaxa. DOI: 10.11646/zootaxa.5150.2.3 
+- Gabrielle Genty,Carlos E. Guarnizo,Juan P. Ramírez,**Lucas S. Barrientos**,and Andrew J. Crawford. (2022). Landscape Genetics and Species Delimitation in the Andean Palm Rocket Frog (Aromobatidae, Rheobates). Journal of Zoological Systematics and Evolutionary Research. https://doi.org/10.1155/2022/6774225
+- **Barrientos, L.S.**, J. W. Streicher, E. C. Miller, M, R. Pie, J. J. Wiens, A. J. Crawford. (2021). Untangling relationships among terraranan frogs: a phylogenomic approach based on 2,665 loci. Scientific Reports.  Systematics and Biodiversity. DOI: 10.1080/14772000.2021.1933249
+- Amézquita A., G. Suárez, P. Palacios-Rodríguez, I. C. Beltrán, C. Rodríguez, **L.S. Barrientos**, J.M. Daza, L. Mazariegos. (2019). A new species of Pristimantis (Anura: Craugastoridae) from the cloud forests of the Colombian Northwestern Andes. Zootaxa,  4648 (3). http://dx.doi.org/10.11646/zootaxa.4648.3.8
 - Rada, M., A. M. Jeckel, V. Z. Caorsi, **L.S. Barrientos**, M. Rivera-Correa, T. Grant (2017). A remarkable new white-eyed glassfrog species of Sachatamia from Colombia (Anura: Centrolenidae), with comments on the systematics of the genus. South American Journal of Herpetology. 12 (2): 157-173.
 - Ortega, J. E., J. M. Carvajalino-Fernández, M. F. Porras, **L.S. Barrientos.** (2017). Vocalizations of an Endangered Species: Description of Release Calls of Atelopus nahumae, an Endemic Species from the Masiff Sierra Nevada de Santa Marta. Herpetological Review. 48(2):273-274.
 - Lasso, E., & **Barrientos, L.S.**, 2015. Epizoochory in dry forest Green iguana: an overlooked seed dispersal mechanism? Colomb. Foresstal 18, 151–159. doi:10.14483/udistrital.jour.colomb.for.2015.1.a09
