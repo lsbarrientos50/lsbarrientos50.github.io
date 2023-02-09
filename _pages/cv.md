@@ -49,6 +49,31 @@ Skills
  
 Teaching
 ======
+### 2023-1 Professor Assistant, Pontificia Universidad Javeriana.
+
+  - Vertebrate Biology
+  - Museums and biological collections
+  - Genetics.
+  - Introduction to biological sciences.
+
+### 2022-2 Lecturer, Universidad de la Salle.
+  - Genetics.
+  - Biology.
+  - Environmental education.
+  - Organism biology.
+  
+### 2022-2 Lecturer, Universidad del Rosario.
+  
+  - Cuisine, Science and Biodiversity.
+
+### 2022-1 Lecturer, Universidad de la Salle.
+  
+  - Genetics.
+  - Biology.
+  - 
+### 2022-1 Lecturer, Universidad del Rosario.
+ 
+ - Cuisine, Science and Biodiversity.
 
 ### 2021-2 Lecturer, Universidad del Rosario.
 
