@@ -51,16 +51,16 @@ Teaching
 ======
 ### 2023-1 Professor Assistant, Pontificia Universidad Javeriana.
 
-  - Vertebrate Biology
-  - Museums and biological collections
+  - Vertebrate Biology.
+  - Museums and Biological Collections.
   - Genetics.
-  - Introduction to biological sciences.
+  - Introduction to Biological Sciences.
 
 ### 2022-2 Lecturer, Universidad de la Salle.
   - Genetics.
   - Biology.
-  - Environmental education.
-  - Organism biology.
+  - Environmental Education.
+  - Organism Biology.
   
 ### 2022-2 Lecturer, Universidad del Rosario.
   
@@ -70,7 +70,7 @@ Teaching
   
   - Genetics.
   - Biology.
-  - 
+  
 ### 2022-1 Lecturer, Universidad del Rosario.
  
  - Cuisine, Science and Biodiversity.
