@@ -21,3 +21,7 @@ I am particularly interested in studying evolutionary patterns and processes usi
 I graduated with a B.Sc. in Biology from the University of Antioquia in Medellín, Colombia. During my master's studies at the National University of Bogotá, I focused my research in the use of frog songs as a source of phylogenetic characters. I have a PhD in Biology from the Universidad de los Andes. I joined the program and Andrew Crawford's Lab in 2010 with a grant from Cociencias Colombia. At the Universidad de los Andes, working on my thesis, I try to use genomic masive data to solve phylogenetics and biogeographic question on direct development frogs of the New World.
 
 ![](/images/2016_canocristales.jpeg "a title")
+
+e-mail: l.barrientos@javeriana.edu.co
+Lab 110B - Ed 53
+(601) 3208320 ext 4126
