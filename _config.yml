@@ -84,12 +84,13 @@ author:
   avatar           : "ls_perfil.jpeg"
   bio              : "Teaching and sharing knowledge"
   location         : "Bogotá D.C., Colombia"
-  employer         : "Universidad del Rosario"
+  employer         : "Pontificia Universidad Javeriana"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "lucas.barrientos@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  Personal email            : "lucas.barrientos@gmail.com"
+  email            : "l.barrientos@javeriana.edu.co"
+  researchgate     : "https://www.researchgate.net/profile/Lucas-Barrientos"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
