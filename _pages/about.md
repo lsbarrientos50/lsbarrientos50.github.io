@@ -24,4 +24,4 @@ I graduated with a B.Sc. in Biology from the University of Antioquia in Medellí
 
 e-mail: l.barrientos@javeriana.edu.co
 Lab 110B - Ed 53
-(601) 3208320 ext 4126
+(+57) 3208320 ext 4126
