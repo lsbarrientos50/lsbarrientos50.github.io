@@ -23,5 +23,5 @@ I graduated with a B.Sc. in Biology from the University of Antioquia in Medellí
 ![](/images/2016_canocristales.jpeg "a title")
 
 e-mail: l.barrientos@javeriana.edu.co
-Lab 110B - Ed 53
-(+57) 3208320 ext 4126
+; Lab 110B - Ed 53
+; Tel: (+57) 3208320 ext 4126
